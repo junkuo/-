@@ -14,5 +14,5 @@
 ### 效能：行事曆及帳本能即時更新
 ### 安全：為創始者設定為最高權限
 
-
+### 甘特圖：
 ![image](https://github.com/junkuo/MIS_3B_21/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.png?raw=true)
